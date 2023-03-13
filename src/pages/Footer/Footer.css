@@ -1,0 +1,22 @@
+.footer_container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer {
+    background: #032541;
+    padding: 30px;
+}
+
+.footer_container p {
+    color: white;
+    font-size: 17px;
+    font-weight: 700;
+    font-family: 'Syne';
+}
+
+p.author span {
+    color: crimson;
+    margin-left: 20px;
+}
